@@ -2,7 +2,7 @@
 
 ## Description
 
-RandomGame est un jeu simple et amusant qui permet aux joueurs de deviner un nombre choisi aléatoirement entre 1 et 100 en six tentatives. Le but du jeu est de deviner le nombre correct pour gagner. Si le joueur n'a pas deviné le nombre correct après six tentatives, le jeu est terminé.
+RandomGame est un jeu simple et amusant qui permet aux joueurs de deviner un nombre choisi aléatoirement entre 1 et 100 en six tentatives. Le but du jeu est de deviner le nombre correct pour gagner. Si le joueur n'a pas deviné le nombre correct après 5 tentatives, le jeu est terminé.
 
 ## Comment jouer
 
